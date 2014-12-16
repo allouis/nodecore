@@ -1,0 +1,24 @@
+{
+  "name": "nodecore",
+  "version": "0.0.0",
+  "description": "all nodes core libs in one module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/allouis/nodecore.git"
+  },
+  "keywords": [
+    "nodecore",
+    "core",
+    "node"
+  ],
+  "author": "Fabien O'Carroll <fabien@allou.is> (http://allou.is/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/nodecore/issues"
+  },
+  "homepage": "https://github.com/allouis/nodecore"
+}
